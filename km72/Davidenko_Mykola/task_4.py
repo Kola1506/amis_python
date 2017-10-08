@@ -1,0 +1,5 @@
+x = int(input("Enter apple : "))
+y = int(input("Enter student : "))
+print("Each student will receive", x//y , "apples")
+print("Apples stay in the basket", x%y)
+input()

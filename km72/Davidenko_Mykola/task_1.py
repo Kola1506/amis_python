@@ -1,0 +1,5 @@
+x = int(input("Please enter x : "))
+z = int(input("Please enter y : "))
+y = int(input("Please enter z : "))
+print(x + y + z)
+input()
